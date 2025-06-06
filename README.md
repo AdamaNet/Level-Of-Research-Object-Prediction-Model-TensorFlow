@@ -21,7 +21,7 @@ This project is a deep learning model based on multimodal data, specifically des
 1. Clone the repository locally:
 
 ```bash
-git clone https://github.com/qwerfgb/Level-Of-Research-Object-Prediction-Model-TensorFlow.git
+git clone https://github.com/AdamaNet/Level-Of-Research-Object-Prediction-Model-TensorFlow.git
 cd Level-Of-Research-Object-Prediction-Model-TensorFlow
 ```
 
